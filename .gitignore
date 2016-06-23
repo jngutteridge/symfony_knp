@@ -15,7 +15,7 @@
 /vendor/
 /web/bundles/
 
-# Created by https://www.gitignore.io
+# (This part, at least, was) Created by https://www.gitignore.io
 
 ### PhpStorm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
@@ -62,4 +62,7 @@ atlassian-ide-plugin.xml
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
 com_crashlytics_export_strings.xml
+
+# End PHP Storm / gi sutff
+
 sh.exe.stackdump
